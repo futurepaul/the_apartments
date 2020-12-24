@@ -1,0 +1,5 @@
+[x] build a floor
+[x] place the player
+[x] move the player by clicking on the floor
+[ ] add walls
+[ ] pathfind around walls
